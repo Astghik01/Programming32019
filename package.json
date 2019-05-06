@@ -1,0 +1,22 @@
+{
+  "name": "programming32019",
+  "version": "1.0.0",
+  "description": "Nor nyut",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Astghik01/Programming32019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Astghik01/Programming32019/issues"
+  },
+  "homepage": "https://github.com/Astghik01/Programming32019#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
